@@ -1,0 +1,1 @@
+I've built this workaround for the annoying YouTube ads now that ad blockers are disallowed. Paste and run it in your console to automatically skip YouTube ads. Optionally, you can trigger this script with a keyboard shortcut using tools like [Alfred](https://alfred.app/).
